@@ -1,0 +1,19 @@
+{
+  "name": "scrapeadidasimages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^7.0.1",
+    "graceful-fs": "^4.1.15",
+    "graceful-js": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}
