@@ -1,1 +1,0 @@
-# adidas-fake-api-scraper
